@@ -1,0 +1,10 @@
+{
+  "id": "greenbone",
+  "version": "1.0.0-beta1",
+  "displayName": "Greenbone VM",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Greenbone/OpenVAS (GMP protocol) live vulnerability sync (SYNC_VULNS) and scan launch (LAUNCH_SCAN) against tasks already configured in GVM (not yet validated against a live GVM instance), plus file-import of Greenbone CSV/XML report exports.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/greenbone.svg"
+}
